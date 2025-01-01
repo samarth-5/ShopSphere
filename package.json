@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run frontend\" \"npm run backend\""
   },
   "engines": {
-  "node": "16.x"
+  "node": "18.x"
 }
 ,
   "keywords": [],
